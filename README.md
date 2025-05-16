@@ -1,5 +1,5 @@
 # IPL-DATA-ANALYSIS---Power-BI
-🏏 IPL Analysis Dashboard
+
 🚀 Power BI Meets Cricket – IPL Analysis Dashboard! 🏏📊
 
 🚀 Uncovering Cricket Insights with Power BI & Python | DAX | Data Modeling
